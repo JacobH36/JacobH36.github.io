@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Code Review
 
-You can use the [editor on GitHub](https://github.com/JacobH36/JacobH36.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+First thing that I did during my capstone class for my computer science degree, was conduct a code review.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A link to my code review can found here: [Link](/JH_CodeReview.mp4)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Enhancement One
 
-# Header 1
-## Header 2
-### Header 3
+Secondly, I made some improvements to the former software design.
 
-- Bulleted
-- List
+A link to that folder containing the changes can be found here: [Link](/Enhancement_1)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Enhancement Two
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Thirdly, I made some improvements to the former algorithms and data structure.
 
-### Jekyll Themes
+A link to that folder containing the changes can be found here: [Link](/Enhancement_2)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JacobH36/JacobH36.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Enhancement Three
+
+And Lastly, I made some improvements to the former database.
+
+A link to that folder containing the changes can be found here: [Link](/Enhancement_3)
