@@ -1,3 +1,8 @@
+While working through my computer science degree at SNHU, I was able to acquire a wide variety of skills pertaining to the computer science field. These skills did not just focus on programming, but also on general problem solving. My portfolio shows that I have learned the basics of Amazon Web Services and how to use JavaScript, however, this is not all that I have learned over the years. I believe that my time at SNHU has better prepared me to work in the computer science industry, as I have learned that there are many keys to success such as working in a team. I have found that communication with team members and evaluating the skills available to the team is paramount for future successes. I have also found that communicating properly with stakeholders is incredibly important, as it ensures that they know how things are going and where the projects stand. I have also gained knowledge on data structures, algorithms, software engineering, databases, and security. These topics help me better understand how to create code and how to store it properly to keep it safe from those who may want to gain access without permission. These are only a few things I have learned while studying at SNHU.
+	
+When it comes to my project’s artifacts, they come together to create a site that stores questions and answers. The site is relatively simple in nature, but I feel that this shows that I have at least a basic understanding of AWS. The project uses many components, such as the S3, Lambda, and API to function, but for this project I mainly focused on the Lambda and API. I hope that this sufficiently showcases my skills. 
+
+
 # Code Review
 
 First thing that I did during my capstone class for my computer science degree, was conduct a code review.
